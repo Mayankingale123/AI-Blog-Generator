@@ -20,7 +20,8 @@ Welcome to the AI-Powered YouTube Video Summarizer! This web application leverag
 
 - **Seamless User Experience**: JavaScript and Ajax integration make using our app a breeze.
   <br><br>
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/0385e4f1-0d7c-443f-9135-23098d09f1ae)
+
 
 
 - **Video Transcription**: AssemblyAI transcribes YouTube videos for accurate content analysis.
