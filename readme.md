@@ -43,7 +43,7 @@ Welcome to the AI-Powered YouTube Video Summarizer! This web application leverag
 Follow these steps to get your AI-Powered YouTube Video Summarizer up and running:
 
 1. Clone this repository to your local machine.
-   > git clone 'https://github.com/Mayankingale123/ai_blog_gen'
+   > git clone 'https://github.com/Mayankingale123/AI-Blog-Generator'
 3. Set up a virtual environment and install the required packages listed in `requirements.txt`.
    > pip install 'requirements.txt'
 4. Configure Django settings, including database configuration.
