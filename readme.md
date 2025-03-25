@@ -49,7 +49,7 @@ Follow these steps to get your AI-Powered YouTube Video Summarizer up and runnin
 4. Configure Django settings, including database configuration.
 5. Apply migrations and create a superuser for administrative access.
    > python manage.py createsuperuser
-7. Obtain API keys for AssemblyAI and OpenAI and configure them within the application.
+7. Obtain API keys for AssemblyAI and gen ai and configure them within the application.
 8. Start the Django development server.
    > python manage.py runserver
 
